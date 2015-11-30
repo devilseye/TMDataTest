@@ -12,6 +12,7 @@ This script creates new tablespace tm_data with following views:
   - List of clinical attributes;
   - List of clinical values;
   - List of all values on Materialized View;
+
 and indexes for following clinical values:
   - Patient number;
   - Subject id;
