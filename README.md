@@ -7,5 +7,5 @@ TM data - set of scripts for easy and user-friendly view of tranSMART data.
 Installing for Oracle
 ============
 From `sql/oracle/` run script:
-  tm_data_oracle.sql
+  *tm_data_oracle.sql*
 using SQL Developer of sqlplus with database user 'system'
