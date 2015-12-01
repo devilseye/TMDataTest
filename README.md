@@ -18,3 +18,6 @@ and indexes for following clinical values:
   - Subject id;
   - Clinical attribute;
   - Data value.
+  
+# Installing for PostgreSQL
+Coming soon...
